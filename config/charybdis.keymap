@@ -152,7 +152,7 @@
             display-name = "Base";
             bindings = <
 &kp GRAVE   &kp C_PREV   &kp C_PP     &kp C_NEXT    &tog SNIPE     &tog SCROLL          &kp PRINTSCREEN  &kp C_MUTE    &kp C_VOL_DN  &kp C_VOL_UP  &kp F12        &kp RBKT
-&kp TAB     &kp Q        &kp W        &kp F         &kp P          &kp G                &kp J            &kp L         &kp U         &kp Y         &kp SEMICOLON  &kp LBKT
+&kp TAB     &kp W        &kp W        &kp F         &kp P          &kp G                &kp J            &kp L         &kp U         &kp Y         &kp SEMICOLON  &kp LBKT
 &kp ESCAPE  &hml LGUI A  &hml LALT R  &hml LCTRL S  &hml LSHFT T   &kp D                &kp H            &hmr RSHFT N  &hmr RCTRL E  &hmr RALT I   &hmr RGUI O    &kp SQT
 &mo HYPR    &kp Z        &kp X        &kp C         &kp V          &kp B                &kp K            &kp M         &kp COMMA     &kp DOT       &kp FSLH       &mo HYPR
                                       &kp LCTRL     &ntd NAV 0     &kp BSLH             &mo FN           &bspc_del
